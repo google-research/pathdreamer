@@ -4,7 +4,7 @@ This repository hosts the open source code for [Pathdreamer](https://arxiv.org/a
 
 [![Video Results](./video_results.gif)]({https://www.youtube.com/watch?v=StklIENGqs0} "Video Results")
 
-[Paper](https://arxiv.org/abs/2105.08756) | [Project Webpage]()
+[Paper](https://arxiv.org/abs/2105.08756) | [Project Webpage](https://google-research.github.io/pathdreamer) | [Colab Demo (Coming soon!)]()
 
 
 ## Setup instructions
