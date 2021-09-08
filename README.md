@@ -4,7 +4,7 @@ This repository hosts the open source code for [Pathdreamer](https://arxiv.org/a
 
 [![Video Results](./video_results.gif)]({https://www.youtube.com/watch?v=StklIENGqs0} "Video Results")
 
-[Paper](https://arxiv.org/abs/2105.08756) | [Project Webpage](https://google-research.github.io/pathdreamer) | [Colab Demo (Coming soon!)]()
+[Paper](https://arxiv.org/abs/2105.08756) | [Project Webpage](https://google-research.github.io/pathdreamer) | [Colab Demo](https://colab.research.google.com/drive/1ty3ib0K8BsFj5JH6Uq-GKGwXUl0ry8fA)
 
 
 ## Setup instructions
@@ -35,7 +35,7 @@ The results will be extracted to the `data/ckpt` directory. Two checkpoints are 
 ## Colab Demo
 
 <!-- copybara:strip_begin(google-internal) -->
-`Pathdreamer_Example_Colab.ipynb` [[click to launch in Google Colab]]() shows how to setup and run the pretrained Pathdreamer model for inference. It includes examples on synthesizing image sequences and continuous video sequences for arbitrary navigation trajectories.
+`Pathdreamer_Example_Colab.ipynb` [[click to launch in Google Colab]](https://colab.research.google.com/drive/1ty3ib0K8BsFj5JH6Uq-GKGwXUl0ry8fA) shows how to setup and run the pretrained Pathdreamer model for inference. It includes examples on synthesizing image sequences and continuous video sequences for arbitrary navigation trajectories.
 <!-- copybara:strip_end -->
 
 <!-- copybara:insert(google-internal)
