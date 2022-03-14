@@ -1,6 +1,6 @@
 # Pathdreamer: A World Model for Indoor Navigation
 
-This repository hosts the open source code for [Pathdreamer](https://arxiv.org/abs/2105.08756), to be presented at [ICCV 2021](http://iccv2021.thecvf.com/).
+This repository hosts the open source code for [Pathdreamer](https://arxiv.org/abs/2105.08756), presented at [ICCV 2021](http://iccv2021.thecvf.com/).
 
 [![Video Results](./video_results.gif)]({https://www.youtube.com/watch?v=StklIENGqs0} "Video Results")
 
