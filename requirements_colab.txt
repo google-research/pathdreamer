@@ -33,6 +33,6 @@ tensorflow-estimator==2.6.0
 termcolor==1.1.0
 typeguard==2.12.1
 typing-extensions==3.7.4.3
-urllib3==1.26.6
+urllib3==1.26.17
 Werkzeug==2.0.1
 wrapt==1.12.1
