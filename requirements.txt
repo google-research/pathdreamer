@@ -11,7 +11,7 @@ google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.39.0
 h5py==3.1.0
-idna==3.2
+idna==3.15
 keras==2.6.0
 Keras-Preprocessing==1.1.2
 Markdown==3.3.4
